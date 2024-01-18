@@ -1,16 +1,28 @@
-# lojong_app
+# TESTES DO APP EM DIFERENTES CELULARES
 
-A new Flutter project.
+# NEXUS ONE:
+![Texto Alternativo](assets/pictures/n1_vs.png)
+![Texto Alternativo](assets/pictures/n1_as.png)
+![Texto Alternativo](assets/pictures/n1_at.png)
+![Texto Alternativo](assets/pictures/n1_qs.png)
 
-## Getting Started
+# NEXUS 4
 
-This project is a starting point for a Flutter application.
+![Texto Alternativo](assets/pictures/n4_vs.png)
+![Texto Alternativo](assets/pictures/n4_as.png)
+![Texto Alternativo](assets/pictures/n4_at.png)
+![Texto Alternativo](assets/pictures/n4_qs.png)
 
-A few resources to get you started if this is your first Flutter project:
+# NEXUS 6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Texto Alternativo](assets/pictures/n6_vs.png)
+![Texto Alternativo](assets/pictures/n6_as.png)
+![Texto Alternativo](assets/pictures/n6_at.png)
+![Texto Alternativo](assets/pictures/n6_qs.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# NEXUS 9
+
+![Texto Alternativo](assets/pictures/n9_vs.png)
+![Texto Alternativo](assets/pictures/n9_as.png)
+![Texto Alternativo](assets/pictures/n9_at.png)
+![Texto Alternativo](assets/pictures/n9_qs.png)
